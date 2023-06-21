@@ -1,2 +1,2 @@
-# -Python_Face_Detection
+# Python_Face_Detection
  Python face detection
